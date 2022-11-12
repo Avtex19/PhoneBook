@@ -4,8 +4,8 @@ def welcome():
         >>> What would you like to do? <<<
         1. Display your existing contact
         2. Create a new contact
-        3. Check an entry
-        4. Remove an entry
+        3. Check a contact
+        4. Remove a contact
         5. Exit
         Enter your entry here (1,2,3,4 or 5):  """))
     return entry
